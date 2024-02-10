@@ -1,7 +1,3 @@
-My-Projects
-
-
-
 About Me
   
   I'm Muhammad, a passionate Computer Science student at King's College London. I'm deeply interested in exploring the vast realms of software development, machine learning, and data science. My journey in computer science is fueled by curiosity and the relentless pursuit of knowledge to solve real-world problems through technology. 
