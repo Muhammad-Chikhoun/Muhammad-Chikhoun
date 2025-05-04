@@ -22,5 +22,5 @@
 ---
 
 # How to Reach Me
-- Email: your.email@example.com
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- Email: mchikhoun@outlook.com
+- LinkedIn: [linkedin.com/in/Muhammad-Chikhoun]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/muhammad-chikhoun-a24463253/))
