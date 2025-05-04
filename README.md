@@ -23,4 +23,5 @@
 
 # How to Reach Me
 - Email: mchikhoun@outlook.com
-- LinkedIn: [linkedin.com/in/Muhammad-Chikhoun]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/muhammad-chikhoun-a24463253/))
+- LinkedIn: [linkedin.com/in/Muhammad-Chikhoun](https://www.linkedin.com/in/muhammad-chikhoun-a24463253/))
+- 
